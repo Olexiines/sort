@@ -25,4 +25,5 @@ int main (void)
 		printf ("%.2f ", b[i]);
 	}
 	printf ("\n");
+
 }
